@@ -8,6 +8,5 @@
 |1|[ft_printf](https://github.com/akth101/42seoul_ft_printf)|X|C|C언어 printf함수 구현|
 |1|[get_next_line](https://github.com/akth101/42seoul_get_next_line)|X|C|Readline을 C언어로 구현|
 |2|[push_swap](https://github.com/akth101/42seoul_push_swap)|X|C|42서울에서 제시하는 조건 하 정렬 알고리즘 구현|
-
-
+|2|[pipex](https://github.com/akth101/42seoul_pipex)|X|C|Linux의 pipe("|") 연산자 구현|
 
