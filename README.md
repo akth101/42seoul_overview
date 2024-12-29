@@ -2,7 +2,7 @@
 
 *서클: 42서울의 프로젝트 분류 시스템으로 숫자가 높을수록 대체로 난이도가 높음
 
-|서클|프로젝트 이름|팀플 여부|사용 언어|프로젝트 내용|
+|서클|프로젝트 이름|팀플|언어|프로젝트 내용|
 |---|---|---|---|---|
 |0|[Libft](https://github.com/akth101/42seoul_libft)|X|C|C언어 라이브러리 제작|
 |1|[ft_printf](https://github.com/akth101/42seoul_ft_printf)|X|C|C언어 printf함수 구현|
