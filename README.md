@@ -23,3 +23,4 @@
 |3|[philosopher](https://github.com/akth101/42seoul_philosopher)|X|C|70hrs|다중 스레드 관리|
 |3|[minishell](https://github.com/akth101/42seoul_minishell)|O|C|210hrs|나만의 bash shell 구현|
 |4|[cub3D](https://github.com/akth101/42seoul_cub3D)|O|C|280hrs|미로 내부를 1인칭 시점에서 본 3D graphicical program 제작|
+|4|[netpractice](https://github.com/akth101/42seoul_netpractice)|X|C|50hrs|TCP/IP addressing 실습|
