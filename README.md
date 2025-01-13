@@ -24,3 +24,9 @@
 |3|[minishell](https://github.com/akth101/42seoul_minishell)|O|C|210hrs|나만의 bash shell 구현|
 |4|[cub3D](https://github.com/akth101/42seoul_cub3D)|O|C|280hrs|미로 내부를 1인칭 시점에서 본 3D graphicical program 제작|
 |4|[netpractice](https://github.com/akth101/42seoul_netpractice)|X|C|50hrs|TCP/IP addressing 실습|
+|4|[cpp00](https://github.com/akth101/42seoul_cpp00)|X|C++|22hrs|class, namespace 등 cpp 기본 학습|
+|4|[cpp01](https://github.com/akth101/42seoul_cpp01)|X|C++|12hrs|메모리 할당, 레퍼런스 등의 개념 학습|
+|4|[cpp02](https://github.com/akth101/42seoul_cpp02)|X|C++|12hrs|polymorphism 기본 학습|
+|4|[cpp03](https://github.com/akth101/42seoul_cpp03)|X|C++|12hrs|inheritence 학습 |
+|4|[cpp04](https://github.com/akth101/42seoul_cpp04)|X|C++|12hrs|abstract class, interface 등의 개념 학습|
+
