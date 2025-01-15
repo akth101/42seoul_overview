@@ -29,4 +29,10 @@
 |4|[cpp02](https://github.com/akth101/42seoul_cpp02)|X|C++|12hrs|polymorphism 기본 학습|
 |4|[cpp03](https://github.com/akth101/42seoul_cpp03)|X|C++|12hrs|inheritence 학습 |
 |4|[cpp04](https://github.com/akth101/42seoul_cpp04)|X|C++|12hrs|abstract class, interface 등의 개념 학습|
+|4|[cpp05](https://github.com/akth101/42seoul_cpp05)|X|C++|25hrs|exception 학습|
+|4|[cpp06](https://github.com/akth101/42seoul_cpp06)|X|C++|25hrs|casts 학습|
+|4|[cpp07](https://github.com/akth101/42seoul_cpp07)|X|C++|25hrs|template 학습|
+|4|[cpp08](https://github.com/akth101/42seoul_cpp08)|X|C++|25hrs|STL 기본 학습|
+|4|[cpp09](https://github.com/akth101/42seoul_cpp09)|X|C++|40hrs|STL 심화 학습|
+
 
