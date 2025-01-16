@@ -34,5 +34,6 @@
 |4|[cpp07](https://github.com/akth101/42seoul_cpp07)|X|C++|25hrs|template 학습|
 |4|[cpp08](https://github.com/akth101/42seoul_cpp08)|X|C++|25hrs|STL 기본 학습|
 |4|[cpp09](https://github.com/akth101/42seoul_cpp09)|X|C++|40hrs|STL 심화 학습|
+|5|[ft_irc](https://github.com/akth101/42seoul_ft_IRC)|O|C++|175hrs|소켓 프로그래밍을 활용한 채팅 서버 구현|
 
 
